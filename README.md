@@ -21,6 +21,8 @@ chmod +x Termux-Lock.py
 
 python setup.py
 
-python Termux-Lock.py
-'''
+python Termux-Lock.py 
+
+```
+
 Star my repo and follow me for more 
